@@ -8,7 +8,7 @@
 
 # Use Ubuntu Trusty Tahr as base image as we're using on Travis CI
 # I also tested with Ubuntu 16.04, should be good with it!
-From ubuntu:14.04
+From ubuntu:trusty-20190425
 MAINTAINER Peter Dave Hello <hsu@peterdavehello.org>
 
 # Prevent dialog during apt install
